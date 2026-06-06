@@ -77,14 +77,10 @@ Perubahan frekuensi clock dari 24 MHz menjadi 12 MHz juga menghasilkan perubahan
 ## Hasil Simulasi
 
 ### Internal RAM (24 MHz)
-
-![Internal RAM 24 MHz](internal_ram_24mhz.png)
+![Internal RAM 24 MHz](images/internal_24mhz.png)
 
 ### External RAM (24 MHz)
-
-![External RAM 24 MHz](external_ram_24mhz.png)
+![External RAM 24 MHz](images/external_24mhz.png)
 
 ### Internal RAM (12 MHz)
-
-![Internal RAM 12 MHz](internal_ram_12mhz.png)
-
+![Internal RAM 12 MHz](images/internal_12mhz.png)
